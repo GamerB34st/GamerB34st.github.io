@@ -8,3 +8,7 @@ body{
 .nokarika{
     list-style: none;
 }
+
+#center{
+    text-align: center;
+}
